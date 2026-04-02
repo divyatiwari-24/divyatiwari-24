@@ -26,19 +26,10 @@
 
 ###
 
-<p align="left">-  Data analysis, pattern recognition & extracting insights from datasets<br>-  Machine Learning model building & evaluation<br>- Time series forecasting & real-world data problems<br>- Problem solving using algorithms & logical thinking<br>- Applying AI to solve practical, high-impact problems</p>
+<p align="left">-  Data analysis, pattern recognition & extracting insights from datasets<br>-  Machine Learning model building & evaluation<br>- Time series forecasting & real-world data problems<br>- Problem solving using algorithms & logical thinking<br>- Applying AI/ML to solve practical, high-impact problems </p>
 
 ###
 
-
-
-<h3 align="left">Currently Learning</h3>
-
-###
-
-<p align="left">- Advanced Data Structures & Algorithms<br>- Machine Learning (Python)<br>- Backend architecture & system design basics</p>
-
-###
 
 <h3 align="left">Socials</h3>
 
