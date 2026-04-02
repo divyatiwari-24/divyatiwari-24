@@ -18,7 +18,15 @@
 
 ###
 
-<p align="left">Programming Languages<br>- Python, C, C++<br><br>Data Analysis & Machine Learning<br>- Pandas, NumPy, Matplotlib, Seaborn<br>- Scikit-learn (basic ML models & evaluation)<br><br>Data Cleaning & Preprocessing<br>- Exploratory Data Analysis (EDA)<br>- Basic ML<br>- Model Evaluation (Accuracy, Precision, Recall)<br><br>Databases<br>- MongoDB (basic), SQL <br><br>Core CS & Problem Solving<br>- Data Structures & Algorithms (learning)<br>- Problem Solving & Logical Thinking<br><br>Tools & Technologies<br>- Git (learning), Jupyter Notebook, Google Colab<br>- REST APIs (usage level)</p>
+<p align="left">Programming: Python, C, C++<br>Data & ML: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn<br>Concepts: Data Cleaning, EDA, Basic ML, Model Evaluation<br>Databases: MongoDB (basic), SQL<br>Core CS: DSA (learning), Problem Solving<br>Tools: Git (learning), Jupyter, Colab, REST APIs</p>
+
+###
+
+<h3 align="left">Interests</h3>
+
+###
+
+<p align="left">-  Data analysis, pattern recognition & extracting insights from datasets<br>-  Machine Learning model building & evaluation<br>- Time series forecasting & real-world data problems<br>- Problem solving using algorithms & logical thinking<br>- Applying AI to solve practical, high-impact problems</p>
 
 ###
 
